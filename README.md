@@ -3,6 +3,8 @@
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keishibuki&theme=highcontrast&show_icons=ture" />
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keishibuki)](https://github.com/keishibuki/github-profile-trophy)
+
 <!--
 **keishibuki/keishibuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
