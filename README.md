@@ -1,5 +1,7 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keishibuki
-)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keishibuki&layout=compact&show_icons=true&theme=highcontrast" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=keishibuki&theme=highcontrast&show_icons=ture" />
+</p>
 
 <!--
 **keishibuki/keishibuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
